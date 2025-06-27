@@ -1,0 +1,14 @@
+new RoadSigns LRRLLR[6];
+
+RoadSigns LRRLLR[0] = CreateObject(19477, -2189.657226, -337.989532, 41.211128, 0.000000, 0.000000, 0.000000);
+SetObjectMaterial(RoadSigns LRRLLR[0], 0, 18646, "matcolours", "black", 0);
+RoadSigns LRRLLR[1] = CreateObject(19477, -2189.657226, -331.709594, 41.191135, 0.000000, 0.000000, 0.000000);
+SetObjectMaterial(RoadSigns LRRLLR[1], 0, 18646, "matcolours", "black", 0);
+RoadSigns LRRLLR[2] = CreateObject(19477, -2163.709960, -332.349578, 42.661148, 0.000000, 0.000000, 0.000000);
+SetObjectMaterial(RoadSigns LRRLLR[2], 0, 18646, "matcolours", "black", 0);
+RoadSigns LRRLLR[3] = CreateObject(19477, -2163.709960, -338.449645, 42.661148, 0.000000, 0.000000, 0.000000);
+SetObjectMaterial(RoadSigns LRRLLR[3], 0, 18646, "matcolours", "black", 0);
+RoadSigns LRRLLR[4] = CreateObject(19477, -2068.249511, -337.044586, 42.271156, 0.000000, 0.000000, 5.700000);
+SetObjectMaterial(RoadSigns LRRLLR[4], 0, 18646, "matcolours", "black", 0);
+RoadSigns LRRLLR[5] = CreateObject(19477, -2068.803222, -330.140258, 42.271156, 0.000000, 0.000000, 5.700000);
+SetObjectMaterial(RoadSigns LRRLLR[5], 0, 18646, "matcolours", "black", 0);

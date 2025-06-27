@@ -1,0 +1,12 @@
+/stats(simple, need to enhance appearance)
+/kill
+/savestats for saving your stats
+/pm command
+/stats (need revamp after adding scissors, etc)
+/sendmoney
+/sm ^ shortcut
+/taxes = to get the tax for different money, like if u have 100k, u die and 100$ are deducted..
+/changepw command to change your password
+/idof = to get someone's id or name with just a part of name or id.
+/me
+/r(replacement for pm)

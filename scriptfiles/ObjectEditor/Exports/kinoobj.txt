@@ -1,0 +1,24 @@
+new kinoobj[11];
+
+kinoobj[0] = CreateObject(19483, 110.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[0], 0, 18646, "matcolours", "red", 0);
+kinoobj[1] = CreateObject(19483, 111.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[1], 0, 18646, "matcolours", "red", 0);
+kinoobj[2] = CreateObject(19483, 112.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[2], 0, 18646, "matcolours", "red", 0);
+kinoobj[3] = CreateObject(19483, 113.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[3], 0, 18646, "matcolours", "red", 0);
+kinoobj[4] = CreateObject(19483, 114.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[4], 0, 18646, "matcolours", "red", 0);
+kinoobj[5] = CreateObject(19483, 115.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[5], 0, 18646, "matcolours", "red", 0);
+kinoobj[6] = CreateObject(19483, 109.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[6], 0, 18646, "matcolours", "red", 0);
+kinoobj[7] = CreateObject(19483, 108.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[7], 0, 18646, "matcolours", "red", 0);
+kinoobj[8] = CreateObject(19483, 107.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[8], 0, 18646, "matcolours", "red", 0);
+kinoobj[9] = CreateObject(19483, 106.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[9], 0, 18646, "matcolours", "red", 0);
+kinoobj[10] = CreateObject(19483, 105.290451, 1024.097534, 22.169368, 0.000000, 0.000000, 90.000000);
+SetObjectMaterial(kinoobj[10], 0, 18646, "matcolours", "red", 0);

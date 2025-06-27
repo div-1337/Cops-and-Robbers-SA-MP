@@ -1,0 +1,4 @@
+Creator = Drebin
+Totalobjects = 1
+Filename = penis
+0_info = 5153 259.805969 -1355.891845 53.109375 0.000000 0.000000 0.000000 0

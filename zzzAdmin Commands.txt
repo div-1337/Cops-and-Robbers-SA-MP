@@ -1,0 +1,2 @@
+/mute to mute a player
+/unmute to unmute a player

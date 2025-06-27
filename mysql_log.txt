@@ -1,0 +1,258 @@
+[11:00:03] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* INTO `houses` WHERE `HouseEX` = '-2465.590576', `HouseEY` = '1235.524414', `Ho' at line 1
+[11:00:58] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '12' W' at line 1
+[11:00:58] [WARNING] cache_get_field_content_int - no active cache
+[11:01:10] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[11:01:10] [WARNING] cache_get_field_content_float - no active cache
+[11:01:10] [WARNING] cache_get_field_content_float - no active cache
+[11:01:10] [WARNING] cache_get_field_content_float - no active cache
+[11:01:10] [WARNING] cache_get_field_content_int - no active cache
+[11:01:10] [WARNING] cache_get_field_content_int - no active cache
+[11:01:13] [ERROR] cache_get_field_content_int - invalid datatype
+[11:01:14] [WARNING] cache_get_field_content_int - no active cache
+[11:01:23] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* INTO `houses` WHERE `HouseEX` = '-2250.022216', `HouseEY` = '114.345115', `Hou' at line 1
+[11:05:23] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '12' W' at line 1
+[11:10:58] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[11:10:58] [WARNING] cache_get_field_content_float - no active cache
+[11:10:58] [WARNING] cache_get_field_content_float - no active cache
+[11:10:58] [WARNING] cache_get_field_content_float - no active cache
+[11:10:58] [WARNING] cache_get_field_content_int - no active cache
+[11:10:58] [ERROR] mysql_tquery - callback parameter count does not match format specifier length
+[11:11:04] [WARNING] cache_get_field_content_int - no active cache
+[11:11:08] [WARNING] cache_get_field_content_int - no active cache
+[11:13:49] [WARNING] cache_get_field_content_int - no active cache
+[11:14:01] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[11:14:01] [WARNING] cache_get_field_content_float - no active cache
+[11:14:01] [WARNING] cache_get_field_content_float - no active cache
+[11:14:01] [WARNING] cache_get_field_content_float - no active cache
+[11:14:01] [WARNING] cache_get_field_content_int - no active cache
+[11:14:01] [WARNING] cache_get_field_content_int - no active cache
+[11:14:07] [WARNING] cache_get_field_content_int - no active cache
+[11:16:15] [WARNING] cache_get_field_content_int - no active cache
+[11:16:15] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '3682', `pjobselected` = '1', `pjob` ='0', `wanted` = '6'' at line 1
+[11:16:27] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[11:16:27] [WARNING] cache_get_field_content_float - no active cache
+[11:16:27] [WARNING] cache_get_field_content_float - no active cache
+[11:16:27] [WARNING] cache_get_field_content_float - no active cache
+[11:16:27] [WARNING] cache_get_field_content_int - no active cache
+[11:16:27] [WARNING] cache_get_field_content_int - no active cache
+[11:16:31] [WARNING] cache_get_field_content_int - no active cache
+[12:07:14] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '151', `pjobselected` = '1', `pjob` ='0', `wanted` = '6' ' at line 1
+[16:49:05] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[16:49:05] [WARNING] cache_get_field_content_float - no active cache
+[16:49:05] [WARNING] cache_get_field_content_float - no active cache
+[16:49:05] [WARNING] cache_get_field_content_float - no active cache
+[16:49:05] [WARNING] cache_get_field_content_int - no active cache
+[16:49:05] [WARNING] cache_get_field_content_int - no active cache
+[16:49:11] [WARNING] cache_get_field_content_int - no active cache
+[16:50:04] [WARNING] cache_get_row_count - no active cache
+[16:50:08] [WARNING] cache_get_row_count - no active cache
+[16:50:11] [WARNING] cache_get_row_count - no active cache
+[16:53:31] [WARNING] cache_get_field_content_int - no active cache
+[16:53:43] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[16:53:43] [WARNING] cache_get_field_content_float - no active cache
+[16:53:43] [WARNING] cache_get_field_content_float - no active cache
+[16:53:43] [WARNING] cache_get_field_content_float - no active cache
+[16:53:43] [WARNING] cache_get_field_content_int - no active cache
+[16:53:43] [WARNING] cache_get_field_content_int - no active cache
+[16:54:01] [WARNING] cache_get_field_content_int - no active cache
+[16:54:07] [WARNING] cache_get_field_content_int - no active cache
+[16:54:38] [WARNING] cache_get_row_count - no active cache
+[16:55:31] [WARNING] cache_get_field_content_int - no active cache
+[16:55:42] [WARNING] cache_get_field_content_int - no active cache
+[16:55:44] [WARNING] cache_get_field_content_int - no active cache
+[16:55:45] [WARNING] cache_get_field_content_int - no active cache
+[16:55:46] [WARNING] cache_get_field_content_int - no active cache
+[16:55:49] [WARNING] cache_get_field_content_int - no active cache
+[16:55:53] [WARNING] cache_get_field_content_int - no active cache
+[16:55:54] [WARNING] cache_get_field_content_int - no active cache
+[16:55:55] [WARNING] cache_get_field_content_int - no active cache
+[16:55:57] [WARNING] cache_get_field_content_int - no active cache
+[16:59:19] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '151', `pjobselected` = '1', `pjob` ='0', `wanted` = '6' ' at line 1
+[16:59:19] [WARNING] cache_get_field_content_int - no active cache
+[16:59:31] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[16:59:31] [WARNING] cache_get_field_content_float - no active cache
+[16:59:31] [WARNING] cache_get_field_content_float - no active cache
+[16:59:31] [WARNING] cache_get_field_content_float - no active cache
+[16:59:31] [WARNING] cache_get_field_content_int - no active cache
+[16:59:31] [WARNING] cache_get_field_content_int - no active cache
+[16:59:45] [WARNING] cache_get_field_content_int - no active cache
+[17:00:17] [WARNING] cache_get_field_content_int - no active cache
+[17:00:20] [WARNING] cache_get_field_content_int - no active cache
+[17:00:21] [WARNING] cache_get_field_content_int - no active cache
+[17:00:22] [WARNING] cache_get_field_content_int - no active cache
+[17:01:35] [WARNING] cache_get_field_content_int - no active cache
+[17:01:47] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[17:01:47] [WARNING] cache_get_field_content_float - no active cache
+[17:01:47] [WARNING] cache_get_field_content_float - no active cache
+[17:01:47] [WARNING] cache_get_field_content_float - no active cache
+[17:01:47] [WARNING] cache_get_field_content_int - no active cache
+[17:01:47] [WARNING] cache_get_field_content_int - no active cache
+[17:01:51] [WARNING] cache_get_field_content_int - no active cache
+[17:01:59] [WARNING] cache_get_field_content_int - no active cache
+[17:02:02] [WARNING] cache_get_field_content_int - no active cache
+[17:02:03] [WARNING] cache_get_field_content_int - no active cache
+[17:02:05] [WARNING] cache_get_field_content_int - no active cache
+[17:02:07] [WARNING] cache_get_field_content_int - no active cache
+[17:02:08] [WARNING] cache_get_field_content_int - no active cache
+[17:02:09] [WARNING] cache_get_field_content_int - no active cache
+[17:02:10] [WARNING] cache_get_field_content_int - no active cache
+[17:06:17] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '151', `pjobselected` = '1', `pjob` ='0', `wanted` = '6' ' at line 1
+[17:49:19] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[17:49:19] [WARNING] cache_get_field_content_float - no active cache
+[17:49:19] [WARNING] cache_get_field_content_float - no active cache
+[17:49:19] [WARNING] cache_get_field_content_float - no active cache
+[17:49:19] [WARNING] cache_get_field_content_int - no active cache
+[17:52:21] [WARNING] cache_get_field_content_int - no active cache
+[17:52:23] [ERROR] cache_get_field_content_int - invalid datatype
+[17:52:25] [WARNING] cache_get_field_content_int - no active cache
+[17:53:11] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '12' W' at line 1
+[17:53:11] [WARNING] cache_get_field_content_int - no active cache
+[17:53:23] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[17:53:23] [WARNING] cache_get_field_content_float - no active cache
+[17:53:23] [WARNING] cache_get_field_content_float - no active cache
+[17:53:23] [WARNING] cache_get_field_content_float - no active cache
+[17:53:23] [WARNING] cache_get_field_content_int - no active cache
+[17:53:23] [WARNING] cache_get_field_content_int - no active cache
+[17:53:25] [ERROR] cache_get_field_content_int - invalid datatype
+[17:53:27] [WARNING] cache_get_field_content_int - no active cache
+[17:58:30] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '12' W' at line 1
+[18:15:36] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:15:36] [WARNING] cache_get_field_content_float - no active cache
+[18:15:36] [WARNING] cache_get_field_content_float - no active cache
+[18:15:36] [WARNING] cache_get_field_content_float - no active cache
+[18:15:36] [WARNING] cache_get_field_content_int - no active cache
+[18:15:47] [WARNING] cache_get_field_content_int - no active cache
+[18:15:50] [ERROR] cache_get_field_content_int - invalid datatype
+[18:15:51] [WARNING] cache_get_field_content_int - no active cache
+[18:18:33] [WARNING] cache_get_field_content_int - no active cache
+[18:18:45] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:18:45] [WARNING] cache_get_field_content_float - no active cache
+[18:18:45] [WARNING] cache_get_field_content_float - no active cache
+[18:18:45] [WARNING] cache_get_field_content_float - no active cache
+[18:18:45] [WARNING] cache_get_field_content_int - no active cache
+[18:18:45] [WARNING] cache_get_field_content_int - no active cache
+[18:19:10] [WARNING] cache_get_field_content_int - no active cache
+[18:19:12] [ERROR] cache_get_field_content_int - invalid datatype
+[18:19:14] [WARNING] cache_get_field_content_int - no active cache
+[18:24:27] [WARNING] cache_get_field_content_int - no active cache
+[18:24:39] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:24:39] [WARNING] cache_get_field_content_float - no active cache
+[18:24:39] [WARNING] cache_get_field_content_float - no active cache
+[18:24:39] [WARNING] cache_get_field_content_float - no active cache
+[18:24:39] [WARNING] cache_get_field_content_int - no active cache
+[18:24:39] [WARNING] cache_get_field_content_int - no active cache
+[18:24:48] [ERROR] cache_get_field_content_int - invalid datatype
+[18:24:49] [WARNING] cache_get_field_content_int - no active cache
+[18:28:30] [WARNING] cache_get_field_content_int - no active cache
+[18:28:42] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:28:42] [WARNING] cache_get_field_content_float - no active cache
+[18:28:42] [WARNING] cache_get_field_content_float - no active cache
+[18:28:42] [WARNING] cache_get_field_content_float - no active cache
+[18:28:42] [WARNING] cache_get_field_content_int - no active cache
+[18:28:42] [WARNING] cache_get_field_content_int - no active cache
+[18:28:46] [ERROR] cache_get_field_content_int - invalid datatype
+[18:28:48] [WARNING] cache_get_field_content_int - no active cache
+[18:33:33] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '0' WH' at line 1
+[18:33:33] [WARNING] cache_get_field_content_int - no active cache
+[18:33:45] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:33:45] [WARNING] cache_get_field_content_float - no active cache
+[18:33:45] [WARNING] cache_get_field_content_float - no active cache
+[18:33:45] [WARNING] cache_get_field_content_float - no active cache
+[18:33:45] [WARNING] cache_get_field_content_int - no active cache
+[18:33:45] [WARNING] cache_get_field_content_int - no active cache
+[18:34:00] [WARNING] cache_get_field_content_int - no active cache
+[18:34:07] [ERROR] cache_get_field_content_int - invalid datatype
+[18:34:08] [WARNING] cache_get_field_content_int - no active cache
+[18:42:19] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '0' WH' at line 1
+[18:56:44] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[18:56:44] [WARNING] cache_get_field_content_float - no active cache
+[18:56:44] [WARNING] cache_get_field_content_float - no active cache
+[18:56:44] [WARNING] cache_get_field_content_float - no active cache
+[18:56:44] [WARNING] cache_get_field_content_int - no active cache
+[18:56:44] [WARNING] cache_get_field_content_int - no active cache
+[18:56:51] [WARNING] cache_get_field_content_int - no active cache
+[18:58:50] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '151', `pjobselected` = '1', `pjob` ='0', `wanted` = '6' ' at line 1
+[19:15:21] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[19:15:21] [WARNING] cache_get_field_content_float - no active cache
+[19:15:21] [WARNING] cache_get_field_content_float - no active cache
+[19:15:21] [WARNING] cache_get_field_content_float - no active cache
+[19:15:21] [WARNING] cache_get_field_content_int - no active cache
+[19:15:21] [WARNING] cache_get_field_content_int - no active cache
+[19:15:30] [ERROR] cache_get_field_content_int - invalid datatype
+[19:15:32] [WARNING] cache_get_field_content_int - no active cache
+[19:15:39] [ERROR] mysql_format - destination size is too small
+[19:15:39] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:40] [ERROR] mysql_format - destination size is too small
+[19:15:40] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:41] [ERROR] mysql_format - destination size is too small
+[19:15:41] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:42] [ERROR] mysql_format - destination size is too small
+[19:15:42] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:44] [ERROR] mysql_format - destination size is too small
+[19:15:44] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:46] [ERROR] mysql_format - destination size is too small
+[19:15:46] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:47] [ERROR] mysql_format - destination size is too small
+[19:15:47] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:15:48] [ERROR] mysql_format - destination size is too small
+[19:15:48] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'W' at line 1
+[19:19:57] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '12' W' at line 1
+[19:31:33] [WARNING] cache_get_field_content_int - no active cache
+[19:31:36] [ERROR] cache_get_field_content_int - invalid datatype
+[19:31:37] [WARNING] cache_get_field_content_int - no active cache
+[19:31:49] [ERROR] mysql_format - destination size is too small
+[19:31:49] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:50] [ERROR] mysql_format - destination size is too small
+[19:31:50] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:51] [ERROR] mysql_format - destination size is too small
+[19:31:51] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:53] [ERROR] mysql_format - destination size is too small
+[19:31:53] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:55] [ERROR] mysql_format - destination size is too small
+[19:31:55] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:56] [ERROR] mysql_format - destination size is too small
+[19:31:56] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:31:57] [ERROR] mysql_format - destination size is too small
+[19:31:57] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:32:00] [ERROR] mysql_format - destination size is too small
+[19:32:00] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:32:05] [ERROR] mysql_format - destination size is too small
+[19:32:05] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHE' at line 1
+[19:33:36] [WARNING] cache_get_field_content_int - no active cache
+[19:33:36] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '0' WH' at line 1
+[19:33:48] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[19:33:48] [WARNING] cache_get_field_content_float - no active cache
+[19:33:48] [WARNING] cache_get_field_content_float - no active cache
+[19:33:48] [WARNING] cache_get_field_content_float - no active cache
+[19:33:48] [WARNING] cache_get_field_content_int - no active cache
+[19:33:48] [WARNING] cache_get_field_content_int - no active cache
+[19:33:50] [ERROR] cache_get_field_content_int - invalid datatype
+[19:33:51] [WARNING] cache_get_field_content_int - no active cache
+[19:34:02] [WARNING] cache_get_field_content_int - no active cache
+[19:38:14] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '0' WH' at line 1
+[19:38:14] [WARNING] cache_get_field_content_int - no active cache
+[19:38:26] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[19:38:26] [WARNING] cache_get_field_content_float - no active cache
+[19:38:26] [WARNING] cache_get_field_content_float - no active cache
+[19:38:26] [WARNING] cache_get_field_content_float - no active cache
+[19:38:26] [WARNING] cache_get_field_content_int - no active cache
+[19:38:26] [WARNING] cache_get_field_content_int - no active cache
+[19:38:28] [ERROR] cache_get_field_content_int - invalid datatype
+[19:38:29] [WARNING] cache_get_field_content_int - no active cache
+[19:39:13] [WARNING] cache_get_field_content_int - no active cache
+[19:39:17] [WARNING] cache_get_field_content_int - no active cache
+[19:39:20] [WARNING] cache_get_field_content_int - no active cache
+[19:39:22] [WARNING] cache_get_field_content_int - no active cache
+[19:41:39] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`VIP` = '0', `money` = '0', `pjobselected` = '1', `pjob` ='0', `wanted` = '0' WH' at line 1
+[19:41:39] [WARNING] cache_get_field_content_int - no active cache
+[19:41:51] [ERROR] "mysql_tquery" - invalid connection handle (id: 1)
+[19:41:51] [WARNING] cache_get_field_content_float - no active cache
+[19:41:51] [WARNING] cache_get_field_content_float - no active cache
+[19:41:51] [WARNING] cache_get_field_content_float - no active cache
+[19:41:51] [WARNING] cache_get_field_content_int - no active cache
+[19:41:51] [WARNING] cache_get_field_content_int - no active cache
+[19:41:55] [ERROR] cache_get_field_content_int - invalid datatype
+[19:41:57] [WARNING] cache_get_field_content_int - no active cache
+[19:42:22] [WARNING] cache_get_field_content_int - no active cache
+[19:42:24] [WARNING] cache_get_field_content_int - no active cache
+[19:42:25] [WARNING] cache_get_field_content_int - no active cache
